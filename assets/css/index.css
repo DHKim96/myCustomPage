@@ -4,3 +4,10 @@
         background-image: url(https://img.einet.kr/P202008011/travel/40104/01.jpg?v=1601339011);
         opacity: 0.8;
     }
+
+
+    .gallery > * {
+        width: 50%;
+        height: 280px;
+    }
+
